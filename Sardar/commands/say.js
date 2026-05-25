@@ -27,7 +27,7 @@ module.exports = {
         `│  convert karta hai!\n` +
         `│\n` +
         `│  📌 Usage:\n` +
-        `│     .say Hello RDX Bot\n` +
+        `│     .say Hello MR SURAJ Bot\n` +
         `│\n` +
         `╰────────────────────╯`
       );
