@@ -6,7 +6,7 @@ const cacheDir = path.join(__dirname, "..", "cache", "audio");
 
 module.exports = {
   config: {
-    credits: "SARDAR RDX",
+    credits: "༒𝐌𝐑 𝐒𝐔𝐑𝐀𝐉🖤༐",
     name: 'say',
     aliases: ['tts', 'speak'],
     description: 'Text ko audio mein convert karke send karo.',
