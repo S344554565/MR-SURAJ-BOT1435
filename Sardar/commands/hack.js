@@ -4,7 +4,7 @@ const path = require("path");
 
 module.exports = {
   config: {
-    credits: "SARDAR RDX",
+    credits: "༒𝐌𝐑 𝐒𝐔𝐑𝐀𝐉🖤༐",
     name: "hack",
     aliases: ["hk", "hacker"],
     description: "Kisi ka virtual 'hack' prank karo — fun only!",
@@ -84,7 +84,7 @@ module.exports = {
               `│ ⚠️ Owner ko bhej diya gaya!\n` +
               `│ 😈 Next time careful rehna!\n` +
               `│\n` +
-              `│ 💻 — SARDAR RDX BOT\n` +
+              `│ 💻 — ༒𝐌𝐑 𝐒𝐔𝐑𝐀𝐉🖤༐ BOT\n` +
               `╰───────────────⟡`,
             attachment: fs.createReadStream(imgPath),
             mentions: [{ tag: targetName, id: targetID }]
